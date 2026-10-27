@@ -1,6 +1,5 @@
 import random
 
-
 def linear_search_count(arr, target):
     comparacoes = 0
 
